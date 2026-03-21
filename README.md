@@ -1,75 +1,177 @@
 # Vu T. Pham
 
-Senior Network & Security Engineer — LAN, WAN, WLAN, Firewalls & Load Balancing  
-Nearly 20 years supporting enterprise network infrastructure.
+📍 Maple Grove, MN &nbsp;|&nbsp; 📬 vu.pham.mn@gmail.com &nbsp;|&nbsp;
+🔗 [LinkedIn](https://linkedin.com/in/vu-pham-363a5713) &nbsp;|&nbsp;
+🌐 [gogreenvue.com](https://gogreenvue.com)
 
 ---
 
-### What I bring
+### Summary
 
-Deep hands-on experience across enterprise routing, switching, wireless, firewall configuration, and load balancing. Strong Tier-III escalation background with a track record of triaging complex, time-sensitive network incidents. Comfortable with documentation, runbooks, and cross-functional collaboration with security and cloud teams.
-
----
-
-### Experience
-
-**XOPS — Principal Support Engineer** *(May 2025 - Present)*  
-Root-cause analysis across distributed cloud systems. API troubleshooting via Postman and GraphQL, GitHub PR workflows, UAT/QA with TestRail. AI-assisted investigation using Claude Code and ChatGPT.
-
-**Exabeam — Principal Escalation Engineer** *(May 2022 - May 2025)*  
-Tier-III escalation for SIEM, UEBA, and TDIR platforms. Triaged data ingestion failures across Kafka, Elasticsearch, Hadoop, and Docker spanning AWS, Azure, and GCS. Authored runbooks and knowledge base articles.
-
-**Ruckus / CommScope / Brocade — Principal Support Escalation Engineer** *(May 2013 - May 2022)*  
-Enterprise networking and WLAN TAC. Escalation support for Ruckus wireless infrastructure including WLC configuration, AP provisioning, 802.1x/RADIUS, and RF troubleshooting. Automation via Python, Shell, and Perl. Mentored engineers and led defect reviews.
-
-**Brocade — Network Managed Solutions Engineer** *(Aug 2006 - May 2013)*  
-24/7 on-call support for enterprise LAN/WAN environments. Hands-on configuration of Palo Alto, Juniper SRX, and Cisco firewalls, VPNs, IPS/IDS, and Brocade ADX load balancers. NMS infrastructure management with SLA-driven incident response.
+Senior network and security engineer with nearly 20 years of enterprise infrastructure
+experience — from hands-on NMS and routing/switching foundations to Tier-III escalation
+for AI-driven cybersecurity platforms. Deep expertise in SIEM, UEBA, cloud-native
+troubleshooting, and multi-vendor network environments spanning Cisco, Juniper, Brocade
+ICX, and Ruckus Wireless. Comfortable owning the hardest cases, collaborating with
+engineering on defect resolution, and shipping knowledge that scales across teams.
+Currently exploring the intersection of AI and software development — building and
+deploying real web apps using Claude Code as a creative outlet and learning platform.
 
 ---
 
-### Technical Skills
+### 🏅 Certifications
 
-**Routing & Switching**  
-`BGP` `OSPF` `EIGRP` `VLANs` `STP` `VRF` `TCP/IP` `SNMP` `Wireshark` `Cisco` `Juniper`
+Cisco **CCNA · CCNP** &nbsp;|&nbsp; Juniper **JNCIA-ER** &nbsp;|&nbsp;
+Ruckus **RCNA** &nbsp;|&nbsp; Brocade **BCFP · BCNE · BCNP · BPIPA · vRouter**
+VMware **VCP** &nbsp;|&nbsp; TSIA **Certified Support Professional** &nbsp;|&nbsp;
+InfoVista **IVCA**
 
-**Wireless / WLAN**  
-`Cisco WLC` `Ruckus Wireless` `AP Provisioning` `RF Troubleshooting` `802.11 a/b/g/n/ac` `802.1x` `RADIUS` `WPA2/WPA3`
+---
 
-**Firewalls & Security**  
-`Palo Alto (hands-on)` `Juniper SRX` `Cisco ASA` `IPS/IDS` `VPN/IPsec` `SSL-VPN` `ACLs` `Segmentation`
+### 💼 Experience
 
-**Load Balancers**  
+**XOPS — Principal Technical Support Engineer**
+*(May 2025 – Present · Remote)*
+- Provide expert-level support for AI-driven Autonomous IT solutions, specializing
+  in diagnosing and resolving complex cloud-based software issues
+- Deep root cause analysis using CMDB, MySQL/SQL, MongoDB, NewRelic, and Sentry
+- Extensive API troubleshooting via GraphQL and RESTful APIs using Postman and CLI
+- Leverage Claude and ChatGPT to streamline internal documentation and knowledge sharing
+- Support UAT and QA processes using TestRail to validate stability of new features
+
+**Exabeam — Principal Escalation Engineer**
+*(May 2022 – May 2025 · Remote)*
+- Delivered in-depth technical support for AI-driven cybersecurity platforms:
+  UEBA, SIEM, and TDIR (Threat Detection, Investigation, and Response)
+- Investigated and resolved complex cloud-native software issues with strong
+  focus on root cause analysis and long-term resolution strategies
+- Triaged critical data ingestion failures spanning Kafka, Elasticsearch, Hadoop,
+  Apache NiFi, and Docker across AWS, Azure, and GCP
+- Collaborated with customers and internal engineering on defect prioritization
+  and hotfix validation
+- Key technologies: Apache Kafka · Elasticsearch · Logstash · Hadoop ·
+  Amazon SQS · Amazon S3 · MongoDB · Apache NiFi · SAML 2.0 ·
+  AWS IAM · SOAR · Ansible · GCP
+
+**McData → Brocade → Ruckus Networks (ARRIS / CommScope)**
+*(Aug 2006 – May 2022 · 15 yrs 10 mos · Plymouth, MN → Remote)*
+
+Spent nearly 16 years with the same core team through five acquisitions —
+McData, Brocade, Broadcom, ARRIS, and CommScope — growing from network
+monitoring engineer to Principal Tier-III Escalation Engineer across NMS
+infrastructure, enterprise switching, and wireless networking.
+
+*Network Engineer — NMS Team* · Aug 2006 – May 2013
+*(McData acquired by Brocade in 2007 — stayed on same team)*
+- Started at McData delivering NMS monitoring services for SAN and
+  channel extension customers
+- Continued on the same NMS team post-acquisition under Brocade
+- Designed and managed NMS infrastructure for real-time event management
+  and capacity planning across enterprise LAN/WAN environments
+- Pre- and post-sales SME for Brocade NMS and remote access services
+- Gained broad expertise across Cisco, Juniper, InfoVista, IDS/IPS,
+  VPN, Linux, and Unix
+
+*Technical Support Engineer L2 → L3 Escalation* · May 2013 – Nov 2017
+*(Brocade TAC — Foundry/ICX Routing & Switching + Ruckus Wireless)*
+- Transitioned into TAC to support Foundry/Brocade ICX switching and
+  routing products (Foundry Networks previously acquired by Brocade)
+- Fast-tracked from L2 to L3 Escalation within 7 months based on
+  rapid technical proficiency
+- As Brocade expanded by acquiring Ruckus Wireless, extended support
+  coverage to include Ruckus WLAN infrastructure
+- Trusted escalation expert for high-impact issues across both ICX
+  switching and Ruckus wireless product lines
+- Deep expertise in L2/L3 networking, 802.1x/RADIUS, RF troubleshooting,
+  access control, and security protocols
+
+*Principal Technical Support Engineer — Ruckus Networks* · Nov 2017 – May 2022
+*(Broadcom acquired Brocade → sold ICX + Ruckus together to ARRIS →
+CommScope acquired ARRIS in Apr 2019 · Ruckus operated independently throughout)*
+- Continued as Principal TSE through two successive acquisitions,
+  supporting the combined ICX + Ruckus Wireless portfolio
+- SME for FastIron routing/switching across complex multi-vendor
+  enterprise environments
+- Led deep defect investigations contributing directly to product improvements
+- Reviewed network designs and delivered optimization recommendations,
+  helping enterprise customers reduce operational costs and maximize ROI
+- Mentored engineers and drove cross-functional collaboration with
+  product engineering on defect prioritization and resolution
+
+---
+
+### 🧰 Technical Skills
+
+**Routing & Switching**
+`BGP` `OSPF` `EIGRP` `VLANs` `STP` `VRF` `TCP/IP` `L2/L3`
+`SNMP` `Wireshark` `Cisco` `Juniper` `Brocade FastIron/ICX`
+
+**Wireless / WLAN**
+`Ruckus Wireless` `Cisco WLC` `AP Provisioning` `RF Troubleshooting`
+`802.11 a/b/g/n/ac` `802.1x` `RADIUS` `WPA2/WPA3`
+
+**Firewalls & Security**
+`Palo Alto (hands-on)` `Juniper SRX` `Cisco ASA` `IPS/IDS`
+`VPN/IPsec` `SSL-VPN` `ACLs` `Segmentation` `SAML 2.0` `AWS IAM`
+
+**Load Balancers**
 `Brocade ADX` `F5 (familiar)`
 
-**Cloud & Infrastructure**  
-`AWS` `Azure` `GCS` `Docker` `Linux`
+**Cloud & Infrastructure**
+`AWS` `Azure` `GCP` `Docker` `Linux` `Unix` `VMware`
 
-**Observability / SIEM**  
-`Elasticsearch` `Kafka` `Logstash` `NewRelic` `Sentry` `Splunk (familiar)`
+**Cybersecurity / SIEM**
+`Exabeam SIEM` `UEBA` `TDIR` `SOAR` `Elasticsearch` `Kafka`
+`Logstash` `Apache NiFi` `Hadoop` `Amazon SQS` `Amazon S3`
+`Splunk (familiar)`
 
-**Automation & APIs**  
-`Python` `Ansible` `Shell` `Perl` `RESTful APIs` `GraphQL` `Postman` `GitHub PRs`
+**Databases & Observability**
+`MySQL/SQL` `MongoDB` `NewRelic` `Sentry` `CMDB`
 
-**AI Tools**  
-`Claude Code` `ChatGPT`
+**Automation & APIs**
+`Python` `Ansible` `Shell` `Perl` `RESTful APIs` `GraphQL`
+`Postman` `GitHub PRs` `TestRail`
 
----
+**Web Development** *(self-taught via AI-assisted development)*
+`React` `TypeScript` `Firebase/Firestore` `Vite`
+`GitHub Actions CI/CD` `Web Audio API` `HTML/CSS/JS`
 
-### Education
-
-B.S. Computer Engineering, University of Minnesota - Twin Cities (2001 - 2006)
-
----
-
-### Certifications
-
-Cisco CCNA, CCNP | Juniper JNCIA-ER | Ruckus RCNA | Brocade BCFP, BCNE, BCNP, BPIPA, vRouter  
-TSIA Certified Support Professional | VMware VCP | InfoVista IVCA
+**AI Tools**
+`Claude Code (agentic development)` `Anthropic API`
+`ChatGPT` `Prompt Engineering`
 
 ---
 
-### Connect
+### 🚀 Side Projects — AI-Assisted App Development
 
-- LinkedIn: [linkedin.com/in/vu-pham-363a5713](https://linkedin.com/in/vu-pham-363a5713)
-- Email: vu.pham.mn@gmail.com
-- Location: Maple Grove, MN
+I build and ship real web apps at **[gogreenvue.com](https://gogreenvue.com)**
+using **Claude Code** as my primary development tool. I own every product
+decision, architecture choice, and deployment pipeline — AI writes the code,
+I engineer the solution.
+
+| App | What it does | Technical highlights |
+|-----|-------------|----------------------|
+| [🎵 Soniq](https://gogreenvue.com/soniq) | Real-time lyric sync + audio enhancement | Web Audio API, EQ/dynamics processing, WAV export, WebCodecs 4K video |
+| [⚔️ BrainQuest](https://gogreenvue.com/brainquest) | Adaptive trivia game for ages 5–18 | 2,000 seed questions, 4 age tiers, Claude API dynamic generation, localStorage state |
+| [🥒 Pickleball RRA](https://gogreenvue.com/pickleball-v3) | Round-robin tournament manager | React + TypeScript, Firestore real-time sync, GitHub Actions CI/CD |
+
+> *"AI writes the code. I engineer the solution."*
+
+🔗 [View source code →](https://github.com/pham0158/APPS)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pham0158&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+### 🎓 Education
+
+B.S. Computer Engineering — University of Minnesota, Twin Cities *(2001–2006)*
+
+---
+
+### 🤝 Connect
+
+- 🔗 [linkedin.com/in/vu-pham-363a5713](https://linkedin.com/in/vu-pham-363a5713)
+- 📬 [vu.pham.mn@gmail.com](mailto:vu.pham.mn@gmail.com)
+- 🌐 [gogreenvue.com](https://gogreenvue.com)
+- 📍 Maple Grove, MN
