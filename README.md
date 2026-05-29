@@ -14,8 +14,10 @@ for AI-driven cybersecurity platforms. Deep expertise in SIEM, UEBA, cloud-nativ
 troubleshooting, and multi-vendor network environments spanning Cisco, Juniper, Brocade
 ICX, and Ruckus Wireless. Comfortable owning the hardest cases, collaborating with
 engineering on defect resolution, and shipping knowledge that scales across teams.
-Currently exploring the intersection of AI and software development — building and
-deploying real web apps using Claude Code as a creative outlet and learning platform.
+Currently deepening cloud-native infrastructure skills through hands-on labs — building
+production-grade AWS environments with Terraform IaC, Kubernetes, and zero-trust
+network access patterns — while shipping real web apps using Claude Code as a creative
+outlet and learning platform.
 
 ---
 
@@ -30,14 +32,23 @@ InfoVista **IVCA**
 
 ### 💼 Experience
 
+**Independent Technical Projects**
+*(March 2026 – Present)*
+- Built a production-grade AWS Multi-VPC Kubernetes lab entirely in Terraform (26 resources):
+  two air-gapped private VPCs connected via peering, zero-trust SSM access via PrivateLink
+  endpoints (no open ports, no SSH keys, no bastion hosts), and a Kubernetes 1.29 cluster
+  spanning both VPCs with Flannel VXLAN CNI — cross-VPC pod communication verified end-to-end
+- Designing and shipping real web apps at [gogreenvue.com](https://gogreenvue.com) using
+  Claude Code — React, TypeScript, Firebase, and GitHub Actions CI/CD pipelines
+
 **XOPS — Principal Technical Support Engineer**
-*(May 2025 – Present · Remote)*
-- Provide expert-level support for AI-driven Autonomous IT solutions, specializing
+*(May 2025 – March 2026 · Remote)*
+- Provided expert-level support for AI-driven Autonomous IT solutions, specializing
   in diagnosing and resolving complex cloud-based software issues
 - Deep root cause analysis using CMDB, MySQL/SQL, MongoDB, NewRelic, and Sentry
 - Extensive API troubleshooting via GraphQL and RESTful APIs using Postman and CLI
-- Leverage Claude and ChatGPT to streamline internal documentation and knowledge sharing
-- Support UAT and QA processes using TestRail to validate stability of new features
+- Leveraged Claude and ChatGPT to streamline internal documentation and knowledge sharing
+- Supported UAT and QA processes using TestRail to validate stability of new features
 
 **Exabeam — Principal Escalation Engineer**
 *(May 2022 – May 2025 · Remote)*
@@ -117,8 +128,12 @@ CommScope acquired ARRIS in Apr 2019 · Ruckus operated independently throughout
 **Load Balancers**
 `Brocade ADX` `F5 (familiar)`
 
-**Cloud & Infrastructure**
-`AWS` `Azure` `GCP` `Docker` `Linux` `Unix` `VMware`
+**Cloud & IaC**
+`AWS` `Azure` `GCP` `Terraform` `VPC Peering` `EC2` `SSM` `IAM` `PrivateLink`
+`Docker` `Linux` `Unix` `VMware`
+
+**Kubernetes**
+`K8s 1.29` `kubeadm` `Flannel VXLAN CNI` `containerd` `cross-VPC pod networking`
 
 **Cybersecurity / SIEM**
 `Exabeam SIEM` `UEBA` `TDIR` `SOAR` `Elasticsearch` `Kafka`
@@ -149,8 +164,9 @@ using **Claude Code** as my primary development tool. I own every product
 decision, architecture choice, and deployment pipeline — AI writes the code,
 I engineer the solution.
 
-| App | What it does | Technical highlights |
-|-----|-------------|----------------------|
+| Project | What it does | Technical highlights |
+|---------|-------------|----------------------|
+| [☁️ AWS Multi-VPC K8s Lab](https://github.com/pham0158/vpc-peering-lab) | Production-grade multi-VPC Kubernetes cluster | Terraform (26 resources), VPC peering, SSM PrivateLink, Flannel VXLAN, zero-trust access |
 | [🎵 Soniq](https://gogreenvue.com/soniq) | Real-time lyric sync + audio enhancement | Web Audio API, EQ/dynamics processing, WAV export, WebCodecs 4K video |
 | [⚔️ BrainQuest](https://gogreenvue.com/brainquest) | Adaptive trivia game for ages 5–18 | 2,000 seed questions, 4 age tiers, Claude API dynamic generation, localStorage state |
 | [🥒 Pickleball RRA](https://gogreenvue.com/pickleball-v3) | Round-robin tournament manager | React + TypeScript, Firestore real-time sync, GitHub Actions CI/CD |
